@@ -1,0 +1,12 @@
+# Data files (generated at runtime)
+users.json
+signups.csv
+wods.json
+
+# Python
+__pycache__/
+*.pyc
+
+# IDE
+.vscode/
+.idea/
